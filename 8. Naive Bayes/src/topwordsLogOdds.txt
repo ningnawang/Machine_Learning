@@ -1,0 +1,8 @@
+1. What kind of words did you find? 
+ Most of them are non-stop words
+
+2. Are there any overlapping words between the two lists? 
+ No
+
+3. How are these words different from what you found with topwords.py / topwords.java?
+ Words found in topwords.py are all stop words, but words found in topwordsLogOdds.py are all non-stop words.

@@ -1,0 +1,2 @@
+What values seem to improve the classifier?
+ I think when increasing N, the accuracy will be improved. And N = 1000 has a better accuracy with 0.8611.

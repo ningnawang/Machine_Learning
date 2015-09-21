@@ -1,0 +1,8 @@
+1. Do the two lists look different?
+ No, but they look almost the same
+
+2. Are there any overlapping words?
+ yes, most of them are overlapped, except for few words
+
+3. In general, what kind of words are they?
+ They are all stop words

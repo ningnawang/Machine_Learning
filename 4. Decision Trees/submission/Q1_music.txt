@@ -1,0 +1,1 @@
+For ‘classical’ attribute, most of values are ‘no’, only few of them are ‘yes’.

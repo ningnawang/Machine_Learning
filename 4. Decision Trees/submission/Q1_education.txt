@@ -1,0 +1,1 @@
+For ‘P4’ attribute, most of values are ‘notA’, only few of them are ‘A’.
